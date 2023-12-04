@@ -25,8 +25,8 @@ SEARCHING & STACKS
 
 STACK AND QUEUE APPLICATIONS
 
-1.Using stack, convert an infix expression to a postfix expression and evaluate the postfix expression.
-2.Write a program to convert an infix expression to a prefix expression using stack.
+1.Using stack, convert an infix expression to a postfix expression and evaluate the postfix expression.\n
+2.Write a program to convert an infix expression to a prefix expression using stack.\n
 3.Convert an infix expression to a postfix expression without using stack.
 4.Implement a Queue using arrays with the operations:
    a.Insert elements into the queue
