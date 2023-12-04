@@ -1,3 +1,4 @@
+/* Program to check weather a string is palindrome using linked list */O
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct node
